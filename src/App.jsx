@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <h1>Abir shah</h1>
+    <h1 className='bg-red-500'>Abir shah</h1>
   )
 }
 
